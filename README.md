@@ -11,8 +11,7 @@ Figma Embed Portfolio
 ♻️ Real time refresh<br/>
 ⚙️ Built in HTML/CSS<br/>
 <br/>
-🎁Open source<br/>
-Feel free to download and reuse it, enjoy !
+🎁Open source, enjoy !
 
 <br/>
 
