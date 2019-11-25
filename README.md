@@ -12,11 +12,10 @@ Figma Embed Portfolio
 ⚙️ Built in HTML/CSS<br/>
 <br/>
 🎁Open source<br/>
+Feel free to download and reuse it, enjoy !
 
 <br/>
 
 ![figma portfolio](http://www.alexisriols.com/Portfolio/2019/thumbnail.png "figma portfolio")
 
-<br/>
 
-Feel free to download and reuse it, enjoy !
