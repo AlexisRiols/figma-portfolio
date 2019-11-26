@@ -5,11 +5,6 @@ Figma Embed Portfolio
 
 <br/>
 
-[Live preview](http://alexisriols.com/Portfolio/Figma/?target=_blank)
-[go](http://alexisriols.com/Portfolio/Figma/){:target="_blank" rel="noopener"}
-
-<br/>
-
 💡 Inspired by Figma Embed<br/>
 🎨 Designed to create manageable portfolio without code<br/>
 🦄 Easy to updtae with figma<br/>
