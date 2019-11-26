@@ -5,7 +5,7 @@ Figma Embed Portfolio
 
 <br/>
 
-[Live preview](http://alexisriols.com/Portfolio/Figma/target=_blank)
+[Live preview](http://alexisriols.com/Portfolio/Figma/?target=_blank)
 
 <br/>
 
