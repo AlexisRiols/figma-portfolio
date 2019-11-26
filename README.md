@@ -6,6 +6,7 @@ Figma Embed Portfolio
 <br/>
 
 [Live preview](http://alexisriols.com/Portfolio/Figma/?target=_blank)
+[go](http://alexisriols.com/Portfolio/Figma/){:target="_blank" rel="noopener"}
 
 <br/>
 
