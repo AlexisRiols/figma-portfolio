@@ -1,7 +1,7 @@
 # figma-portfolio
 
 Figma Embed Portfolio
-<a href="http://alexisriols.com/Portfolio/Figma/" title="Figma Embed Portfolio" target="_blank">Live preview</a>
+<a target="_blank" href="http://alexisriols.com/Portfolio/Figma/" title="Figma Embed Portfolio">Live preview</a>
 
 <br/>
 
