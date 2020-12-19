@@ -2,7 +2,7 @@
 
 Figma Embed Portfolio
 <br/>
-<a target="_blank" href="http://alexisriols.com/Portfolio/Figma/" title="Figma Embed Portfolio">Live preview</a>
+<a target="_blank" href="http://www.alexisriols.me/FigmaPortfolio/" title="Figma Embed Portfolio">Live preview</a>
 <br/>
 <a target="_blank" href="https://www.figma.com/c/file/780842272265877909" title="Figma Portfolio">Figma source file</a>
 
@@ -20,6 +20,4 @@ Figma Embed Portfolio
 
 <br/>
 
-![figma portfolio](http://www.alexisriols.com/Portfolio/2019/thumbnail.png "figma portfolio")
-
-
+![Figma Portfolio](https://cdn.dribbble.com/users/154847/screenshots/8556094/media/720c5595237ef17feb64b0b4b88a82d7.png?compress=1&resize=1600x1200)
